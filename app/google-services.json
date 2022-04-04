@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "2696473999",
+    "firebase_url": "https://userproject-bdaab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "userproject-bdaab",
+    "storage_bucket": "userproject-bdaab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:2696473999:android:7221c5141313192f00affa",
+        "android_client_info": {
+          "package_name": "com.example.userproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "2696473999-1ngh8mk923ntvn1mo0t44acjvbg3kg9v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKP1J-GLQItEOsynVsMcLOu5y3j5axp24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "2696473999-1ngh8mk923ntvn1mo0t44acjvbg3kg9v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
